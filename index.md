@@ -1,12 +1,12 @@
 # Full Stack Java Developer & SDET
 
-Shantonu Sarker is a Full Stack Software Engineer , currently working as Lead Performance Engineer at Ensured.io
+Shantonu Sarker is a Full Stack Performance Engineer , currently working as Lead Performance Engineer at Ensured.io
 
 # Contact 
 - [Gmail/Gtalk](mailto:sarker.shantonu@gmail.com): sarker.shantonu, [outlook](mailto:sarker.shantonu@live.com)
 - Skype : shantonu.sarker
 - WhatApp : +8801778072324
-- [Blog](https://shantonusarker.blogspot.com/)
+- [**Blog**](http://shantonu.com), my [Old Blog](https://shantonusarker.blogspot.com/)
 - [Twitter](https://twitter.com/sarkershantonu)
 - [Github](https://github.com/sarkershantonu)
 - [Xing](https://www.xing.com/profile/Shantonu_Sarker)
