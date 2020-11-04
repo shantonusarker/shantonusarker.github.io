@@ -1,0 +1,21 @@
+# --- General options --- #
+theme: jekyll-theme-cayman
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+
+# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
+url: "https://shantonusarker.github.io"
+baseurl: ""
+
+# If you are building a GitHub project page then use these settings:
+#url: "http://username.github.io/projectname"
+#baseurl: "/projectname"
+
+# Of course don't forget to change the username and projectname to YOUR username and project
+
+# Name of website
+title: A Test Developer's Blog
+
+# Short description of your site
+description: Learn Testing by coding
+
