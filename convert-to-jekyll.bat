@@ -1,0 +1,1 @@
+ruby -r rubygems import-blogger.rb
